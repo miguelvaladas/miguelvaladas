@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m learning React and Spring Boot.
 - 💬 Ask me about anything VIM 😄
 - 📫 How to reach me by: <a href="mailto:airesvaladas@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/miguel-valadas/">LinkedIn</a>.
+- 📖 You can find my updated <b>CV</b> <a href="https://drive.google.com/file/d/1qcICMhmyRIyzSK8yRugAriRoX8dO9Pq8/view?usp=sharing">HERE</a>.
 
 ## Tech Stack
 
