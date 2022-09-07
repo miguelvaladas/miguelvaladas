@@ -1,6 +1,6 @@
-### Hey there, I'm Miguel! 👋
+# Hey there, I'm Miguel! 👋
 
-I'm a former tax consultant & entrepreneur that fell in love with programming.
+### I'm a former tax consultant & entrepreneur that fell in love with programming.
 
 <!--
 **miguelvaladas/miguelvaladas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
