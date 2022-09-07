@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 <table>
 <tr>
+<th>Java</th>
 <th>Spring Boot</th>
 <th>Spring Security</th>
 <th>JWT</th>
@@ -44,6 +45,7 @@ Here are some ideas to get you started:
 
 </tr>
 <tr>
+<td align="center"><img align="center" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height=50 width=50></td>
 <td align="center"><img align="center" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" height=50 width=50></td>
 <td align="center"><img src="https://seeklogo.com/images/S/spring-logo-F6678FED25-seeklogo.com.png" height=50 width=50></td>
 <td align="center"><img src="https://jwt.io/img/logo-asset.svg" height=50 width=50></td>
