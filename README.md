@@ -7,7 +7,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently on the market!
 - 🌱 I’m learning React and Spring Boot.
 - 💬 Ask me about anything VIM 😄
 - 📫 How to reach me by: <a href="mailto:airesvaladas@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/miguel-valadas/">LinkedIn</a>.
