@@ -1,6 +1,6 @@
 # Hey there, I'm Miguel! 👋
 
-### I build things and I love to do it.
+### I build things and I love it.
 
 <!--
 **miguelvaladas/miguelvaladas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
