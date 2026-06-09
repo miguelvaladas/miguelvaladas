@@ -9,5 +9,3 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m passionate about Android, DevOps and Backend.
 - 📫 How to reach me by: <a href="mailto:airesvaladas@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/miguel-valadas/">LinkedIn</a>.
-
-[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelvaladas)](https://github.com/anuraghazra/github-readme-stats)
